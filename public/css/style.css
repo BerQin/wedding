@@ -66,8 +66,8 @@ hr {height: 3px;width: 60px;position: relative;background: #626a29;border: 0;mar
 /* ---------------------------------------------------------------------------- */
 #menu {padding: 20px;transition: all 0.8s;}
 #menu.navbar-default {background-color: rgba(248, 248, 248, 0);border: none;}
-#menu a.navbar-brand {text-transform: uppercase;font-size: 22px;color: #d9e0e2;font-weight: 700;letter-spacing: 1px;}
-#menu a.navbar-brand i.fa {color: #f3ca27;}
+#menu a.navbar-brand {text-transform: uppercase;font-size: 22px;color: #d9e0e2;font-weight: 700;letter-spacing: 1px; padding: 0px; line-height: 50px;}
+#menu a.navbar-brand i.icon-logo {color: #f3ca27; font-size: 36px; vertical-align: middle; position: relative; top: -2px; font-weight: normal;}
 #menu.navbar-default .navbar-nav > li > a {text-transform: uppercase;color: #d9e0e2;font-size: 12px;letter-spacing: 1px;}
 #menu.navbar-default .navbar-nav > li > a:hover {color: #f3ca27;}
 .on {background-color: #032731 !important;padding: 0 !important;}
@@ -100,7 +100,7 @@ article {padding: 100px 0;}
 .heading h2{font-weight: 400;margin-bottom: 26px;}
 
 .box-content.box-style {}
-.box-content.box-style{padding: 80px 0;background: #F1C40F;}
+.box-content.box-style{padding: 80px 0; min-height: 500px; background: #F1C40F;}
 .box-content.box-style i.fa {font-size: 30px;padding: 5px;color: #f1c40f;}
 .box-content.box-style hr {background: #a9971c;}
 
@@ -126,7 +126,7 @@ ol.type li a:hover {background: #f7dc6f;}
 .isotope .isotope-item {-webkit-backface-visibility: hidden;backface-visibility: hidden;-webkit-transition-property: -webkit-transform, opacity;-moz-transition-property: -moz-transform, opacity;transition-property: transform, opacity;}
 
 
-.hover-bg .hover-text {position: absolute;text-align: center;margin: 0 auto;color: #c0cbce;background: rgba(3, 46, 58, 0.8);padding: 25% 0;height: 100%;width: 100%;opacity: 0;transition: all 0.5s;}
+.hover-bg .hover-text {position: absolute;text-align: center;margin: 0 auto;color: #c0cbce;background: rgba(3, 46, 58, 0.8);padding: 25% 5%;height: 100%;width: 100%;opacity: 0;transition: all 0.5s;}
 .hover-bg .hover-text>h4 {opacity: 0;-webkit-transform: translateY(100%);transform: translateY(100%);transition: all 0.3s;font-size: 20px;}
 .hover-bg:hover .hover-text>h4 {opacity: 1;-webkit-backface-visibility: hidden;-webkit-transform: translateY(0);transform: translateY(0);}
 .hover-bg .hover-text>i {opacity: 0;-webkit-transform: translateY(0);transform: translateY(0);transition: all 0.3s;}

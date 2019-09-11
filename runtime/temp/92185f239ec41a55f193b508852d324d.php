@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\wedding\public/../application/index\view\about\index.html";i:1568179321;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568179619;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\wedding\public/../application/index\view\about\index.html";i:1568181062;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568187487;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,7 +8,7 @@
     <meta name="description" content="Free Responsive Html5 Templates">
     <meta name="author" content="">
 
-    <title>Home</title>
+    <title>咔嗒摄影平台</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -19,9 +19,7 @@
 	
 	<!-- Custom Fonts -->
 		<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-		
-		
-
+	  <link rel="stylesheet" type="text/css" href="localfont/iconfont.css">
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
 		<script type="text/javascript" src="js/jquery-2.1.1.js"></script> 
 		<!-- Include all compiled plugins (below), or include individual files as needed --> 
@@ -37,8 +35,6 @@
         <script src="js/html5shiv.js"></script>
         <script src="js/respond.min.js"></script>
     <![endif]-->
-
-    
     
 </head>
 <body>
@@ -48,14 +44,14 @@
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">
 			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
-			  <a class="navbar-brand" href="index"><i class="fa fa-flag-checkered fa-flip-horizontal"></i> MyTravel<strong></strong></a> 
+			  <a class="navbar-brand" href="index"><i class="iconfont icon-logo"></i> 咔嗒摄影平台<strong></strong></a> 
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 			  <ul class="nav navbar-nav navbar-right">
-				<li><a href="index" class="page-scroll">Home</a></li>
-				<li><a href="about" class="page-scroll">About</a></li>
-				<li><a href="contact" class="page-scroll">Contact</a></li>
+				<li><a href="index" class="page-scroll">首页</a></li>
+				<li><a href="about" class="page-scroll">摄影师们</a></li>
+				<li><a href="contact" class="page-scroll">联系我们</a></li>
 			  </ul>
 			</div>
 			<!-- /.navbar-collapse --> 
@@ -64,18 +60,18 @@
 	</nav>
 	<!-- Navigation -->
 
-  <!-- /////////////////////////////////////////content -->
-  
-
 	<!-- /////////////////////////////////////////Header -->
 	<header class="text-center" name="home">
 		<div class="intro-text">
-			<h1 class="wow fadeInDown">Welcome to <strong><span class="color">MyTravel</span></strong></h1>
-			<p class="wow fadeInDown">a creative digital agency from New York</p>
-			<a href="#" class="btn btn-default btn-lg page-scroll wow fadeInUp" data-wow-delay="200ms">Our Portfolio</a> 
+			<h1 class="wow fadeInDown">Welcome to <strong><span class="color">KaDa</span></strong></h1>
+			<p class="wow fadeInDown">快来选择属于你的摄影师吧！</p>
+			<a href="#" class="btn btn-default btn-lg page-scroll wow fadeInUp" data-wow-delay="200ms">开始</a> 
 		</div>
 	</header>
 	<!-- Header -->
+
+  <!-- /////////////////////////////////////////content -->
+  
 	
 	<!-- /////////////////////////////////////////Content -->
 	<div id="page-content" class="sub-page">
@@ -128,7 +124,7 @@ Our Worldwide Code of Conduct, first published in 1974, defines what we stand fo
 	<footer>
 		<div id="footer">
 			<div class="container">
-				<p>Copyright &copy; 2019.Company name All rights reserved.<a target="_blank" href="http://sc.chinaz.com/moban/">&#x7F51;&#x9875;&#x6A21;&#x677F;</a></p>
+				<p>Copyright &copy; 2019.咔嗒摄影平台.提供最好的摄影体验</p>
 			</div>
 		</div>
 	</footer>
