@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\wedding\public/../application/index\view\index\index.html";i:1568286434;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568286459;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\wedding\public/../application/index\view\index\index.html";i:1568287019;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568286973;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -188,38 +188,38 @@
 							蓝天、白天、青草、小鹿、道具一个草帽 拍拍拍。
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/guimi-2.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/guimi-2.jpg" alt="">
             </p>
             <p>我最原始最模糊的记忆是关于一碗面，我记得我坐在台阶上，在吃一碗面，只是一个场景，记不清前因后果，然后，妈妈补充了整个故事。那是邻居家在吃汤面，然后在逗我，给我盛了一碗，一个海碗啊，然后我就吃了，一滴不剩的把汤都喝了。</p>
             <p class="row-img">
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/guimi-1.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/guimi-1.jpg" alt="">
               </span>
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/guimi-4.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/guimi-4.jpg" alt="">
               </span>
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/guimi-3.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/guimi-3.jpg" alt="">
             </p>
             <p class="row-img">
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/guimi-5.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/guimi-5.jpg" alt="">
               </span>
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/guimi-6.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/guimi-6.jpg" alt="">
               </span>
             </p>
             <p class="row-img">
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/guimi-7.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/guimi-7.jpg" alt="">
               </span>
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/guimi-9.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/guimi-9.jpg" alt="">
               </span>
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/guimi-8.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/guimi-8.jpg" alt="">
             </p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -250,38 +250,38 @@
 							这几天的天气还算舒服，比去年六月好很多哦。
 						</p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/hai-2.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/hai-2.jpg" alt="">
             </p>
             <p>一张张照片定格相伴的岁月，一首首歌回忆相处的点滴，一句句留言湿润明亮的眼眸，一份份祝福相伴未来的路途，愿身边的朋友把毕业作为新的开始，把情意留在心的深处。</p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/hai-7.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/hai-7.jpg" alt="">
             </p>
             <p class="row-img">
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/hai-4.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/hai-4.jpg" alt="">
               </span>
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/hai-1.jpg" alt="">
-              </span>
-            </p>
-            <p class="row-img">
-              <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/hai-5.jpg" alt="">
-              </span>
-              <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/hai-6.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/hai-1.jpg" alt="">
               </span>
             </p>
             <p class="row-img">
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/hai-9.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/hai-5.jpg" alt="">
               </span>
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/hai-34.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/hai-6.jpg" alt="">
+              </span>
+            </p>
+            <p class="row-img">
+              <span class="cl-2">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/hai-9.jpg" alt="">
+              </span>
+              <span class="cl-2">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/hai-34.jpg" alt="">
               </span>
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/hai-8.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/hai-8.jpg" alt="">
             </p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -310,17 +310,17 @@
             <h2>日本 京都旅拍-闺蜜</h2>
             <p class="item-intro">这个夏天有你陪伴，很幸福。(#^.^#)</p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/munu-1.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/munu-1.jpg" alt="">
             </p>
             <p>南湘是席城的梦,顾里是顾源的命,林萧是崇光的未来,友情是唐宛如的全部。</p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/munu-2.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/munu-2.jpg" alt="">
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/munu-4.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/munu-4.jpg" alt="">
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/munu-3.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/munu-3.jpg" alt="">
             </p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -349,25 +349,25 @@
             <h2>日本 夏日の京都</h2>
             <p class="item-intro">还好照片里看不出炎热，清凉的感觉诱人。(#^.^#)</p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/qing-5.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/qing-5.jpg" alt="">
             </p>
             <p>南湘是席城的梦,顾里是顾源的命,林萧是崇光的未来,友情是唐宛如的全部。</p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/qing-4.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/qing-4.jpg" alt="">
             </p>
             <p class="row-img">
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/qing-2.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/qing-2.jpg" alt="">
               </span>
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/qing-3.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/qing-3.jpg" alt="">
               </span>
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/qing-6.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/qing-6.jpg" alt="">
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/qing-7.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/qing-7.jpg" alt="">
             </p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -396,36 +396,36 @@
             <h2>日本 奈良旅拍</h2>
             <p class="item-intro">夏季没有樱花🌸枫叶🍁，但是有炎热 🥵和绿叶🍃。</p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/shennai-1.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/shennai-1.jpg" alt="">
             </p>
             <p>南湘是席城的梦,顾里是顾源的命,林萧是崇光的未来,友情是唐宛如的全部。</p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/shennai-2.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/shennai-2.jpg" alt="">
             </p>
             <p class="row-img">
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/shennai-5.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/shennai-5.jpg" alt="">
               </span>
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/shennai-6.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/shennai-6.jpg" alt="">
               </span>
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/shennai-4.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/shennai-4.jpg" alt="">
             </p>
             <p class="row-img">
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/shennai-3.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/shennai-3.jpg" alt="">
               </span>
               <span class="cl-2">
-                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/shennai-9.jpg" alt="">
+                <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/shennai-9.jpg" alt="">
               </span>
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/shennai-7.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/shennai-7.jpg" alt="">
             </p>
             <p>
-              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/kepian/jinbowen/shennai-8.jpg" alt="">
+              <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/kepian/jinbowen/shennai-8.jpg" alt="">
             </p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -453,7 +453,7 @@
             <!-- Project Details Go Here -->
             <h2>Project Title</h2>
             <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
-            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/images/06-preview.jpg" alt="">
+            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/images/06-preview.jpg" alt="">
             <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -481,7 +481,7 @@
             <!-- Project Details Go Here -->
             <h2>Project Title</h2>
             <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
-            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/images/07-preview.jpg" alt="">
+            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/images/07-preview.jpg" alt="">
             <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -509,7 +509,7 @@
             <!-- Project Details Go Here -->
             <h2>Project Title</h2>
             <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
-            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/images/08-preview.jpg" alt="">
+            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/images/08-preview.jpg" alt="">
             <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -537,7 +537,7 @@
             <!-- Project Details Go Here -->
             <h2>Project Title</h2>
             <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
-            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/images/10-preview.jpg" alt="">
+            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/images/10-preview.jpg" alt="">
             <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -565,7 +565,7 @@
             <!-- Project Details Go Here -->
             <h2>Project Title</h2>
             <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
-            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/images/11-preview.jpg" alt="">
+            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/images/11-preview.jpg" alt="">
             <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -593,7 +593,7 @@
             <!-- Project Details Go Here -->
             <h2>Project Title</h2>
             <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
-            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/images/12-preview.jpg" alt="">
+            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/images/12-preview.jpg" alt="">
             <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -621,7 +621,7 @@
             <!-- Project Details Go Here -->
             <h2>Project Title</h2>
             <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
-            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/images/13-preview.jpg" alt="">
+            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/images/13-preview.jpg" alt="">
             <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -649,7 +649,7 @@
             <!-- Project Details Go Here -->
             <h2>Project Title</h2>
             <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
-            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/images/14-preview.jpg" alt="">
+            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/images/14-preview.jpg" alt="">
             <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -677,7 +677,7 @@
             <!-- Project Details Go Here -->
             <h2>Project Title</h2>
             <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
-            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/images/15-preview.jpg" alt="">
+            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/images/15-preview.jpg" alt="">
             <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>
@@ -705,7 +705,7 @@
             <!-- Project Details Go Here -->
             <h2>Project Title</h2>
             <p class="item-intro">Lorem ipsum dolor sit amet consectetur.</p>
-            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" src="/assets/images/16-preview.jpg" alt="">
+            <img alt="旅拍 京都 日本 摄影" class="img-responsive img-centered" data-src="/assets/images/16-preview.jpg" alt="">
             <p>Lorem ipsum dolor sit amet, sea essent iisque iudicabit te, pro no justo delicata inimicus, et oblique docendi laboramus eum. Ei minim fabulas pertinacia pro, graeco urbanitas reformidans quo id. Error congue tacimates ei vis, facer facete ius cu, audiam prodesset pri ut. Id semper fuisset vel, has dolorum menandri eu.</p>
             <ul class="list-inline">
               <li><strong>来自</strong>: 一头弹吉他的牛</li>

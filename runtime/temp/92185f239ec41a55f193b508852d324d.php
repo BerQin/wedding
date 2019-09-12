@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\wedding\public/../application/index\view\about\index.html";i:1568286400;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568286459;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\wedding\public/../application/index\view\about\index.html";i:1568286400;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568286499;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>

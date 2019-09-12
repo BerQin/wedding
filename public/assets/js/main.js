@@ -79,6 +79,11 @@ function main() {
         });
         $container.on('click', '.portfolio-item', function() {
             $('#go-btn').css('right', '17px');
+            $(document).find($(this).find('.portfolio-link').attr('href')).find('img').each(function(){
+                if (!$(this).attr('src')) {
+                    $(this).attr('src', $(this).attr('data-src'));
+                }
+            });
         });
         $(document).on('click', '.close-modal', function() {
             $('#go-btn').css('right', '0');
