@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"D:\wamp64\www\wedding\public/../application/index\view\contact\index.html";i:1568181057;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568187294;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"D:\wamp64\www\wedding\public/../application/index\view\contact\index.html";i:1568281200;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568281130;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,7 +43,7 @@
 		<div class="container"> 
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">
-			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 			  <a class="navbar-brand" href="index"><i class="iconfont icon-logo"></i> 咔嗒摄影平台<strong></strong></a> 
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
@@ -51,7 +51,7 @@
 			  <ul class="nav navbar-nav navbar-right">
 				<li><a href="index" class="page-scroll">首页</a></li>
 				<li><a href="about" class="page-scroll">摄影师们</a></li>
-				<li><a href="contact" class="page-scroll">联系我们</a></li>
+				<li><a href="contact" class="page-scroll">合作流程</a></li>
 			  </ul>
 			</div>
 			<!-- /.navbar-collapse --> 
@@ -61,11 +61,11 @@
 	<!-- Navigation -->
 
 	<!-- /////////////////////////////////////////Header -->
-	<header class="text-center" name="home">
+	<header class="text-center" id="header-top" name="home">
 		<div class="intro-text">
 			<h1 class="wow fadeInDown">Welcome to <strong><span class="color">KaDa</span></strong></h1>
 			<p class="wow fadeInDown">快来选择属于你的摄影师吧！</p>
-			<a href="#" class="btn btn-default btn-lg page-scroll wow fadeInUp" data-wow-delay="200ms">开始</a> 
+			<a href="/about" class="btn btn-default btn-lg page-scroll wow fadeInUp" data-wow-delay="200ms">开启旅程</a> 
 		</div>
 	</header>
 	<!-- Header -->
@@ -80,58 +80,35 @@
 				<div class="container">
 					<div class="row heading wow fadeInDown text-center">
 						<div class="col-lg-12">
-							<h2>Contact</h2>
+							<h2>合作流程</h2>
 						  <hr>
 						  <div class="clearfix"></div>
-						  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diamcommodo nibh ante facilisis.</p>
+						  <p>让我来简单的介绍一下在本站下单流程吧！</p>
 						</div>
 					</div>
 					<div class="row">
-						<div class='embed-container maps'>
-							<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3164.289259162295!2d-120.7989351!3d37.5246781!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x8091042b3386acd7%3A0x3b4a4cedc60363dd!2sMain+St%2C+Denair%2C+CA+95316%2C+Hoa+K%E1%BB%B3!5e0!3m2!1svi!2s!4v1434016649434" width="100%" height="450px" frameborder="0" style="border: 0"></iframe>
-						</div>
-						<div class="col-md-4 box-item wow fadeInLeft">
-							<h3>Contact Info</h3>
-							<span>SED UT PERSPICIATIS UNDE OMNIS ISTE NATUS ERROR SIT VOLUPTATEM ACCUSANTIUM DOLOREMQUE LAUDANTIUM, TOTAM REM APERIAM.</span><br> <br>
-							<p>JL.Kemacetan timur no.23. block.Q3<br>
-								Jakarta-Indonesia</p>
-							   <p>+6221 888 888 90 <br>
-								+6221 888 88891</p>
-							<p>info@yourdomain.com</p>
-						</div>
-						<div class="col-md-8 wow fadeInRight">
-							<h3>Contact Form</h3>
-							<form id="ff" name="form1" method="post" action="contact.php">
-								<div class="row">
-									<div class="col-md-6">
-										<div class="form-group">
-										<input type="text" class="form-control input-lg" name="name" id="name" placeholder="Enter name" required="required" />
-										</div>
-									</div>
-									<div class="col-md-6">
-										<div class="form-group">
-											<input type="email" class="form-control input-lg" name="email" id="email" placeholder="Enter email" required="required" />
-										</div>
-									</div>
-								</div>
-								<div class="row">
-									<div class="col-md-12">
-										<div class="form-group">
-											<input type="text" class="form-control input-lg" name="subject" id="subject" placeholder="Subject" required="required" />
-										</div>
-									</div>
-								</div>
-								<div class="row">
-									<div class="col-md-12 text-center">
-										<div class="form-group">
-											<textarea name="message" id="message" class="form-control" rows="4" cols="25" required="required"
-											placeholder="Message"></textarea>
-										</div>						
-										<button type="submit" class="btn btn-default btn-lg page-scroll wow fadeInUp" name="submitcontact" id="submitcontact">Submit</button>
-									</div>
-								</div>
-							</form>
-						</div>
+						<h2>一、选择摄影师</h2>
+						<br>
+						<p>请在首页浏览照片，找到您喜欢的风格，下方有对应摄影师下单的快捷连接，点击下单即可</p>
+						<br>
+						<h2>二、交易流程</h2>
+						<br>
+						<p>点击连接后可来到淘宝店铺，请联系客服联系对应摄影师的时间安排达成共识确认无误后，请拍下需要的对应的连接的商品！</p>
+						<p>这部分资金为预定费用和服务费用，加下来的内容就由我们来完成</p>
+						<p>与摄影师确定时间安排，并安排具体档期。</p>
+						<p>请自行解决护照，签证，飞机，车马，住宿等费用和事项，本平台不提供服务</p>
+						<p>在拍照之前，我们会将摄影师与客户建立一个沟通群，有助于客户需要的效果方便与摄影师沟通。</p>
+						<p>本平台提供相册打印服务，请查看具体商品的打印相册选项</p>
+						<p>有任何有关拍照流程，和与摄影是沟通的工作均可以向我们咨询</p>
+						<br>
+						<h2>三、完成交易</h2>
+						<br>
+						<p>用户在预约好的时间内拍照，完成拍照、出片结束视为完成交易</p>
+						<p>在没有预约的情况下，7个工作日内可以无条件退款，预约后可变更2次时间、且预约时间后后2个工作日后视为成立预约，不给与退款</p>
+						<br>
+						<h2>其他服务：</h2>
+						<br>
+						<p>我们还提供相册打印服务哦，排版打印，快来制作心仪的相册吧！</p>
 					</div>
 				</div>
 			</article>
@@ -143,10 +120,15 @@
 	<footer>
 		<div id="footer">
 			<div class="container">
-				<p>Copyright &copy; 2019.咔嗒摄影师平台.提供最好的摄影体验</p>
+				<p>Copyright &copy; 2019.咔嗒摄影平台.提供最好的摄影体验</p>
 			</div>
 		</div>
 	</footer>
 	<!-- Footer -->
+
+	<!-- <div class="go-btn" id="go-btn">
+		<span>开始</span>
+		<span>下单</span>
+	</div> -->
 </body>
 </html>

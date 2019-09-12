@@ -137,10 +137,12 @@ ol.type li a:hover {background: #f7dc6f;}
 .portfolio-item .hover-bg {height: 260px;overflow: hidden;position: relative;}
 .portfolio-modal .modal-content h2 {margin-bottom: 15px;font-size: 2.5em;}
 .portfolio-modal .modal-content p {margin-bottom: 30px;}
+.portfolio-modal .modal-content p.row-img {display: flex;}
+.portfolio-modal .modal-content p span.cl-2{margin: 0 15px;flex: 1;}
 .portfolio-modal .modal-content p.item-intro {margin: 10px 0 30px;font-size: 14px;font-style: italic;}
 .portfolio-modal .modal-content ul.list-inline {margin-top: 0;margin-bottom: 30px;}
 .portfolio-modal .modal-content img {margin-bottom: 30px;}
-.portfolio-modal .close-modal {position: absolute;top: 25px;right: 25px;width: 75px;height: 75px;background-color: transparent;cursor: pointer;}
+.portfolio-modal .close-modal {position: fixed;top: 25px;right: 25px;width: 75px;height: 75px;background-color: transparent;cursor: pointer;}
 .portfolio-modal .close-modal:hover {opacity: .3;}
 .portfolio-modal .close-modal .lr {z-index: 1051;width: 1px;height: 75px;margin-left: 35px;background-color: #222;-webkit-transform: rotate(45deg);-ms-transform: rotate(45deg);transform: rotate(45deg);}
 .portfolio-modal .close-modal .lr .rl {z-index: 1052;width: 1px;height: 75px;background-color: #222;-webkit-transform: rotate(90deg);-ms-transform: rotate(90deg);transform: rotate(90deg);}
@@ -157,10 +159,9 @@ ol.type li a:hover {background: #f7dc6f;}
 
 article{padding: 70px 0 70px;}
 article:after, article:before{clear: both; content: '\0020'; display: block; visibility: hidden; width: 0; height: 0;}
-article img{max-height: 400px;width: 100%; border: none;}
-article .art-header{}
+article img{max-height: 400px; width: 100%; border: none; display: inline-block !important;}
 article .art-content{padding: 40px ;}
-article .art-content blockquote {border-left: 3px solid #1c7791;font-size: 18px;margin: 0 50px;font-style: italic;color: #666;padding-left: 20px;}
+article .art-content blockquote {border-left: 3px solid #1c7791;font-size: 18px; margin: 10px 0 20px;font-style: italic;color: #666;padding-left: 20px;}
 article .art-content ol {float: left;text-align: justify;margin: 10px 50px;font-size: 16px;list-style-type: circle;}
 
 article .entry-title {margin: 0 0 20px;text-align: center;}
@@ -168,6 +169,9 @@ article  h1.entry-title{line-height: 1.2;font-size: 38px;}
 article h2{line-height: 1.1;font-size: 20px;margin: 0;}
 article .info a{ color: #BE0A0A;}
 article .info a:hover{ text-decoration: underline;}
+.text-center {
+	text-align: center;
+}
 /* ---------------------------------------------------------------------------- */
 /* -------------------------------------Footer--------------------------------- */
 /* ---------------------------------------------------------------------------- */
@@ -217,6 +221,49 @@ a:focus,
 /* ---------------------------------------------------------------------------- */
 /* --------------------------------Responsive---------------------------------- */
 /* ---------------------------------------------------------------------------- */
+
+.go-btn{
+	position: fixed;
+	bottom: 65px;
+	right: 0;
+	padding: 10px 20px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #fff;
+	background: rgba(3, 46, 58, 0.8);
+	cursor: pointer;
+	opacity: 0;
+	z-index: 999999999;
+	transition: opacity 1s;
+	display: none;
+}
+.go-btn.active {
+	opacity: 1;
+}
+.go-btn span{
+	display: block;
+}
+
+.shenc{
+	background: #1c424d;
+	color: #f3ca27;
+	border: none;
+	outline: none;
+	border-radius: 4px;
+	font-size: 16px;
+	padding: 10px 20px;
+	float: right;
+	margin-top: 15px;
+}
+
+.margin-40{
+	margin: 40px 0;
+}
+
+@media (max-width: 996px) {
+	article img{width: auto; border: none;}
+}
+
 @media (max-width: 768px) {
 	.content {
 		padding: 40% 0 0;

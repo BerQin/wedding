@@ -1,4 +1,4 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\wedding\public/../application/index\view\about\index.html";i:1568181062;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568187487;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:71:"D:\wamp64\www\wedding\public/../application/index\view\about\index.html";i:1568281550;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568281620;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -43,7 +43,7 @@
 		<div class="container"> 
 			<!-- Brand and toggle get grouped for better mobile display -->
 			<div class="navbar-header">
-			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+			  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
 			  <a class="navbar-brand" href="index"><i class="iconfont icon-logo"></i> 咔嗒摄影平台<strong></strong></a> 
 			</div>
 			<!-- Collect the nav links, forms, and other content for toggling -->
@@ -51,7 +51,7 @@
 			  <ul class="nav navbar-nav navbar-right">
 				<li><a href="index" class="page-scroll">首页</a></li>
 				<li><a href="about" class="page-scroll">摄影师们</a></li>
-				<li><a href="contact" class="page-scroll">联系我们</a></li>
+				<li><a href="contact" class="page-scroll">合作流程</a></li>
 			  </ul>
 			</div>
 			<!-- /.navbar-collapse --> 
@@ -61,11 +61,11 @@
 	<!-- Navigation -->
 
 	<!-- /////////////////////////////////////////Header -->
-	<header class="text-center" name="home">
+	<header class="text-center" id="header-top" name="home">
 		<div class="intro-text">
 			<h1 class="wow fadeInDown">Welcome to <strong><span class="color">KaDa</span></strong></h1>
 			<p class="wow fadeInDown">快来选择属于你的摄影师吧！</p>
-			<a href="#" class="btn btn-default btn-lg page-scroll wow fadeInUp" data-wow-delay="200ms">开始</a> 
+			<a href="/about" class="btn btn-default btn-lg page-scroll wow fadeInUp" data-wow-delay="200ms">选定摄影师</a> 
 		</div>
 	</header>
 	<!-- Header -->
@@ -80,38 +80,29 @@
 				<div class="container">
 					
 					<div class="art-content">
-						<h1 class="entry-title">The title on the article</h1>
-						<div class="row">
-						<div class="col-md-4">
-							<img src="images/plane.jpg" class="img-responsive" alt="About">
+						<h1 class="entry-title">摄影师们^_^</h1>
+						
+						<p class="text-center">我们这边都是常驻摄影师哦，提供摄影师的推荐与对接工作，流程简单、稳定、可靠。免除用户在沟通中的问题</p>
+
+						<div class="row margin-40">
+							<div class="col-md-4 text-center">
+								<img src="/sheyingshi/jinbowen.jpg" class="img-responsive" alt="About">
+							</div>
+							<div class="col-md-8">
+								<h3>一头弹吉他的牛</h3>
+								<blockquote>
+									<p>擅长：人像写真，和服，汉服</p>
+								</blockquote>
+								<p>最近很多客人会问我，関西地震怎么样，会不会有余震，影响大不大。<br/><br/>
+									我想说：这次大阪地震确实挺大的，大阪这样的地方产生6级的地震也是难以想象的。当天関西神户，京都，大阪的铁路几乎都停了。但是毕竟是地震多发的国家，第二天铁路几乎都恢复了。各种设施商场都开始正常化运转。感受不到地震的影响。所以客人们也不要担心。房屋抗震性是极高的。<br/><br/>
+									至于会不会有余震的问题，把心放肚子里。只能说：大自然的事情谁知道呢</p>
+								<p>所在区域：日本京都，大阪，奈良</p>
+								<p>
+									<button class="shenc">就选你了 <i class="fa fa-shopping-cart"></i></button>
+								</p>
+							</div>
 						</div>
-						<div class="col-md-8">
-							<p>For many years, we have been making sustainable progress possible and driving positive change on every continent. With 2014 sales and revenues of $56 billion, our Company is the world’s leading manufacturer of various products. The company principally operates through its three product segments. Company strategy includes a vision of the future where: we are recognized as the leader everywhere we do business; our products, services and solutions help our customers succeed; our distribution system is a competitive advantage; our supply chain is world class; our business model drives superior results performance consistently rewards our stockholders.<br><br>
-Our Worldwide Code of Conduct, first published in 1974, defines what we stand for and believe in, documenting the uncompromisingly high ethical standards our company has upheld since its founding in 1925.</p>
-						</div>
-					</div>
-						<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
-						<blockquote><p>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet vultatup duista.</p></blockquote>
-						<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril.</p>
-						<h2>Heading 1</h2>
-						<p>Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse lorem ipsum dolor sit amet.</p>
-						<h2>Heading 2</h2>
-						<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis. At vero eos et accusam et justo.</p>
-						<h2>Heading 3</h2>
-						<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum hendrerit in vulputate velit esse molestie.</p>
-						<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.</p>
-						<p><code>Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</code></p>
-						<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>
-						<div class="note">
-						  <ol>
-							<li>Lorem ipsum</li>
-							<li>Sit amet vultatup nonumy</li>
-							<li>Duista sed diam</li>
-						  </ol>
-						  <div class="clear"></div>
-						</div>
-						<p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
-						<p>Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores.</p>
+						<p>和风就是“日本风”的意思，以形容音乐、建筑、绘画等艺术领域，以及衣食住等文化生活方面具有“日本式”的特色和味道。这个词语经常在受到其他国家影响时作对比使用，如从中国传过去的叫“中国风”，从西方传过去的叫“西洋风”等。日本往往是先大力追捧异国风情，然后再反省、消化，将其变成“和风”，但也正因如此，真正“和风”的东西微乎其微。 日本是一个情绪化的民族，一旦认为“和”能代表自己，便将经过日本式改造的外来东西都冠以“和”字，并对其抱有憧憬。</p>
 					</div>
 				</div>
 			</article>
@@ -129,5 +120,10 @@ Our Worldwide Code of Conduct, first published in 1974, defines what we stand fo
 		</div>
 	</footer>
 	<!-- Footer -->
+
+	<!-- <div class="go-btn" id="go-btn">
+		<span>开始</span>
+		<span>下单</span>
+	</div> -->
 </body>
 </html>
