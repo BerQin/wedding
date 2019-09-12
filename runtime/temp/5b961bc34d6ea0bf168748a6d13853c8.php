@@ -1,39 +1,41 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"D:\wamp64\www\wedding\public/../application/index\view\contact\index.html";i:1568281200;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568281130;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:73:"D:\wamp64\www\wedding\public/../application/index\view\contact\index.html";i:1568281200;s:63:"D:\wamp64\www\wedding\application\index\view\public\common.html";i:1568286459;}*/ ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="咔嗒摄影平台，快来选择属于你的摄影师吧！" />
+		<meta name="Keywords" content="咔嗒 摄影 摄影平台 中国 日本 北京 京都 旅拍 夏天 秋天 冬天 春天 樱花 照片 相册 修图 婚纱照 旅拍照 照片" />
     <meta name="description" content="Free Responsive Html5 Templates">
     <meta name="author" content="">
 
     <title>咔嗒摄影平台</title>
 
     <!-- Bootstrap Core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="css/style.css">
-	  <link rel="stylesheet" type="text/css" href="css/animate.min.css">
+    <link rel="stylesheet" href="/assets/css/style.css">
+	  <link rel="stylesheet" type="text/css" href="/assets/css/animate.min.css">
 	
 	<!-- Custom Fonts -->
-		<link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
-	  <link rel="stylesheet" type="text/css" href="localfont/iconfont.css">
+		<link href="/assets/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	  <link rel="stylesheet" type="text/css" href="/assets/localfont/iconfont.css">
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-		<script type="text/javascript" src="js/jquery-2.1.1.js"></script> 
+		<script type="text/javascript" src="/assets/js/jquery-2.1.1.js"></script> 
 		<!-- Include all compiled plugins (below), or include individual files as needed --> 
-		<script type="text/javascript" src="js/bootstrap.min.js"></script> 
-		<script type="text/javascript" src="js/SmoothScroll.js"></script> 
-		<script type="text/javascript" src="js/wow.min.js"></script> 
-		<script type="text/javascript" src="js/jquery.isotope.js"></script> 
-		<script type="text/javascript" src="js/main.js"></script>
+		<script type="text/javascript" src="/assets/js/bootstrap.min.js"></script> 
+		<script type="text/javascript" src="/assets/js/SmoothScroll.js"></script> 
+		<script type="text/javascript" src="/assets/js/wow.min.js"></script> 
+		<script type="text/javascript" src="/assets/js/jquery.isotope.js"></script> 
+		<script type="text/javascript" src="/assets/js/main.js"></script>
 	
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
-        <script src="js/html5shiv.js"></script>
-        <script src="js/respond.min.js"></script>
+        <script src="/assets/js/html5shiv.js"></script>
+        <script src="/assets/js/respond.min.js"></script>
     <![endif]-->
     
 </head>
@@ -65,7 +67,7 @@
 		<div class="intro-text">
 			<h1 class="wow fadeInDown">Welcome to <strong><span class="color">KaDa</span></strong></h1>
 			<p class="wow fadeInDown">快来选择属于你的摄影师吧！</p>
-			<a href="/about" class="btn btn-default btn-lg page-scroll wow fadeInUp" data-wow-delay="200ms">开启旅程</a> 
+			<a href="/about" class="btn btn-default btn-lg page-scroll wow fadeInUp" data-wow-delay="200ms">选定摄影师</a> 
 		</div>
 	</header>
 	<!-- Header -->
